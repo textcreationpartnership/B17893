@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Blagrave's advertisement for his spirits of scurvey-grass.</title>
+            <author>Blagrave, Charles.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17893</idno><idno type="EEBO-CITATION">99888639</idno>
+  <idno type="VID">195857</idno>
+  <idno type="EEBO-PROQUEST">2248545328</idno>
+  
+            <idno type="STC">Wing B3109A</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[53]</idno>
+            <idno type="STC">ESTC R231376</idno>
+            <idno type="PROQUEST">ocm99888639</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888639e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17893)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195857)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[53])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Blagrave's advertisement for his spirits of scurvey-grass.</title>
+                  <author>Blagrave, Charles.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: torn and faded at head.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Drugs --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Scurvy --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="notice">
+            <pb facs="tcp:195857:1"/>
+            <pb facs="tcp:195857:1"/>
+            <head>
+               <hi>Blagrave's</hi> Advertisement of his Spirits of <hi>Scurvey-grass.</hi>
+            </head>
+            <p>
+               <hi>THese Excellent Spirits of</hi> Scurvey-grass <hi>both plain and purging, have sufficiently commended themselves in their several Operations, by meeting with general acceptation from all sorts of persons, both for preventing and curing the</hi> Scurvey <hi>and several other Distempers: They are so safe Medicines, that they may be taken all the year without confinement to house or diet. A few drops of the</hi> Plain spirit <hi>is very beneficial, taken in</hi> E<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om, Tunbridge, Barnet, <hi>or</hi> Dulwich Wa<g ref="char:EOLhyphen"/>ters; <hi>for it not only takes off the crudities, but furthers them to perform their desired effects. Taking once or twice a week of my</hi> Golden spirit, <hi>carries off all crude phlegmatick humours, that may be cau<g ref="char:EOLhyphen"/>sed by the Waters, and fortifies the Vitals and Stomach.</hi>
+            </p>
+            <p>☞ Observe, <hi>Ʋse these Spirits</hi> (but not counterfeits) <hi>according to my directions, before the Teeth and Gums be decayed; you shall not be subject to rotten, yellow, stinking Teeth or Tooth-ach, putrified Gums, stinking Breath, or loose Teeth, but they preserve the Teeth white and sound, till old age decays the whole structure of the Body if loose fasten them. These Spirits being stopped close, are subject to no decay.</hi>
+            </p>
+            <div type="part">
+               <head>VERTƲES.</head>
+               <p>THey are beneficial for all persons that travel by Sea or Land, both for preventing and cu<g ref="char:EOLhyphen"/>ring the <hi>Scurvey,</hi> with its pains and spots; and also all pains that are caused by great Colds, Surfets, Foulness of Blood. They cure all sorts of Itches, Scabs, or Breakings out. Will effectually cure the Dropsie, give speedy ease in the Wind Collick, and brings away the Gravel in the Kidneys. Open Obstructions, and cure the Green Sickness, with the pains in the Stomach, and cause a fresh ruddy Complection. Mightily cleanse the Stomach of Cold Phlegma<g ref="char:EOLhyphen"/>tick Humors, thin Tough Phlegm, and give Breath to the greatest Stoppages; help Digestion, and recovers a Lost Appetite: For an Unsavoury Breath they are the quickest and best Remedies in the World: They not only procure a Sweet Breath, but carry away all Fumes which cause an ungrateful scent. They help the Kings Evil and dispose Old Ulcers and Sores to a speedy Healing. Evacuate Cold Phlegmatick Humors both from Liver and Spleen, wasteing the Swellings and Hard<g ref="char:EOLhyphen"/>ness thereof. Cure violent Surfets, if timely taken: Kill Worms in young and old. You shall re<g ref="char:EOLhyphen"/>ceive full Directions for each Spirit with the Bottles. Price 1 <hi>s.</hi> each Bottle.</p>
+               <p>The True Spirit of both sorts are onely sold by Mr. <hi>Billingsly</hi> at the <hi>Printing-Press</hi> in <hi>Corn-hill,</hi> near the <hi>Royal Exchange;</hi> Mr. <hi>James</hi> at the <hi>Printing press</hi> in <hi>Mincing-lane,</hi> Mr. <hi>Blagrave</hi> at the <hi>Black Bear</hi> in <hi>Paul's Church-yard,</hi> Mr. <hi>Sherly</hi> under St. <hi>Dunstans</hi> Church in <hi>Fleet-street,</hi> Mr. <hi>Mildward</hi> at the Entrance of <hi>Westminster Hall,</hi> all being Booksellers: Mr. <hi>Prescott</hi> at the <hi>Golden Key,</hi> near the <hi>Market-place</hi> in <hi>Southwark;</hi> Mr. <hi>Hughs</hi> a Perfumer in <hi>Shandois street</hi> near <hi>Covent Garden;</hi> Mr. <hi>Harrison</hi> at <hi>Lincolns-Inn-Gate</hi> in <hi>Chancery-lane,</hi> Mrs. <hi>Floyd</hi> at <hi>Turn-stile</hi> in <hi>Holbourn,</hi> and at the <hi>Black Swan</hi> in <hi>Exeter-Change</hi> in the <hi>Strand,</hi> Mr. <hi>Paine</hi> a Sales-man in <hi>Ratcliffe High-way,</hi> over against <hi>Shadwell</hi> Church; Mr. <hi>Wright</hi> a Milliner at the Corner of <hi>New-fish street-hill,</hi> Mr. <hi>Bla<g ref="char:EOLhyphen"/>grave</hi> a Perfumer in the <hi>Savoy,</hi> Mr. <hi>Moore</hi> at the <hi>Maidenhead</hi> over against the Dial in <hi>Fleetstreet</hi> Bookseller, Mr. <hi>Halford</hi> at the end of the <hi>Paved Alley</hi> in the <hi>Pell-Mell</hi> Bookseller, Mr. <hi>Brandon</hi> a Cheesmonger at the Corner of <hi>Clare Market;</hi> Mr. <hi>Fenton</hi> at the <hi>Cat</hi> and <hi>Fiddle</hi> in <hi>Duke-street</hi> by <hi>Lincolns-Inn-Fields, John Barnet</hi> Cheesmonger at the <hi>Golden Heart</hi> in <hi>Bishops-gate-street,</hi> near the <hi>Spittle;</hi> Mr. <hi>Parrock</hi> Grocer at the Corner of <hi>Chancery-lane</hi> in <hi>Holbourn,</hi> Mr. <hi>Livengston</hi> Fru<g ref="char:EOLhyphen"/>terer at the South Entrance of the <hi>Royal Exchange;</hi> Mrs <hi>Yates</hi> Sempstriss next door to <hi>Goodmans g<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> in the <hi>Minories;</hi> &amp; at my House on <hi>Clerken-well-green,</hi> the 2d. House in <hi>New-Prison Walk.</hi>
+               </p>
+               <p>
+                  <hi>AT these places may be had that excellent and well-known</hi> Spirit of Pepper, <hi>being approved by all that have made trial, to excel most Medicines in these following Diseases: For strengthening a weak Stomach after Vomitting, and helping Digestion; Cures Griping of the Guts, if caused by Wind; allayes the greatest Thirst in Feavors: Cures Violent Pains in the Stomach, and for a Windy Stomach no better Medicine. It causes the Wind to pass downwards. Excellent for Nurses that give suck, to take off the windiness of the Milk. It preserves people from Feavors and Surfeits. Very good against the Collick and Strangury. It helpeth almost any cold Diseases in the Nerves. A few Drops being taken, <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ediately causes Sweat.</hi> Price 1 s. a Bottle.</p>
+               <p>
+                  <hi>All my Spirits are sealed with my Coat of Arms, being Three Crossed swords <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
